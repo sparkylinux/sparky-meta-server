@@ -1,5 +1,5 @@
 Package: sparky-meta-server
-Version: 20190126.1
+Version: 20190221
 Architecture: amd64
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
@@ -9,5 +9,3 @@ Section: System
 Priority: optional
 Description: Sparky Meta Server
   This meta package installs all reqired packages of Sparky server edition.
- # removed from package depends  directly during development: 
-  # removed from package suggests during development: clamav, clamav-freshclam, clamav-milter, libc-icap-mod-clamav, libclamav-client-perl, netdata, nut-client, python-pyclamav, sparky-plymouth, webmin
